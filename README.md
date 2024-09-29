@@ -1,4 +1,4 @@
-
+![Header](./github_header.png)
 
 <h1 align="center">Hi 👋, I'm Akash Rachakonda</h1>
 <h3 align="center">Full Stack Developer | Java, SpringBoot, React, AWS | Building Scalable Solutions</h3>
