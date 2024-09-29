@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Design Patterns & AWS**
 
-- 👨‍💻 All of my projects are available at [https://akashrachakonda.github.io/Portfolio_/](https://akashrachakonda.github.io/Portfolio_/)
+- 👨‍💻 All of my projects are available at [https://akashrachakonda.github.io/Portfolio_/](https://akashrachakonda.github.io/_Portfolio/)
 
 - 💬 Ask me about **Java, Javascript, React, Angular and SpringBoot**
 
